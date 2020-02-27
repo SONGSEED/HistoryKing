@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 41b2836eb13cd8545b177a4e015db52c
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 79d8e165ae4e62e4393a64b5908a4ad6
+  - enabled: 1
+    path: Assets/Scenes/cardmenu.unity
+    guid: f2cfd0dc54798854f88ddfb1d9d63243
+  - enabled: 1
+    path: Assets/Scenes/ToyoCard.unity
+    guid: 05e2d06476d282d4e9712ae08dcb95e5
+  - enabled: 1
+    path: Assets/Scenes/TOYOTEXT.unity
+    guid: ee078a53c0f71364990c45c9f341792a
+  - enabled: 1
+    path: Assets/Scenes/TurtleCard.unity
+    guid: 3fca46cc951edb546a3181a031e67796
+  - enabled: 1
+    path: Assets/Scenes/TurtleText.unity
+    guid: 736704b452990624489178a4aea9d099
+  - enabled: 1
+    path: Assets/Scenes/YssCard.unity
+    guid: ba5cc0362ea49b44e892001502dd79df
+  - enabled: 1
+    path: Assets/Scenes/YSSTEXT.unity
+    guid: b5e7cc3d0a933fe429de45419454cfb7
+  m_configObjects: {}

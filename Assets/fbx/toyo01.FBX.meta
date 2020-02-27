@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: c632d9d67faccb544875a7516235f167
+timeCreated: 1538560136
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001_toyo
+    100002: Bone002_toyo
+    100004: Bone003_toyo
+    100006: Bone004(mirrored)_toyo
+    100008: Bone004_toyo
+    100010: Bone005(mirrored)_toyo
+    100012: Bone005_toyo
+    100014: Bone006(mirrored)_toyo
+    100016: Bone006_toyo
+    100018: Bone007(mirrored)_toyo
+    100020: Bone007_toyo
+    100022: Bone008(mirrored)_toyo
+    100024: Bone008_toyo
+    100026: Bone009(mirrored)_toyo
+    100028: Bone009_toyo
+    100030: IK Chain001_toyo
+    100032: IK Chain002_toyo
+    100034: obj_toyo
+    100036: obj_toyo_sword
+    100038: Point001_toyo
+    100040: Point002_toyo
+    100042: Point_toyo_all
+    100044: Point_toyo_sword
+    100046: //RootNode
+    400000: Bone001_toyo
+    400002: Bone002_toyo
+    400004: Bone003_toyo
+    400006: Bone004(mirrored)_toyo
+    400008: Bone004_toyo
+    400010: Bone005(mirrored)_toyo
+    400012: Bone005_toyo
+    400014: Bone006(mirrored)_toyo
+    400016: Bone006_toyo
+    400018: Bone007(mirrored)_toyo
+    400020: Bone007_toyo
+    400022: Bone008(mirrored)_toyo
+    400024: Bone008_toyo
+    400026: Bone009(mirrored)_toyo
+    400028: Bone009_toyo
+    400030: IK Chain001_toyo
+    400032: IK Chain002_toyo
+    400034: obj_toyo
+    400036: obj_toyo_sword
+    400038: Point001_toyo
+    400040: Point002_toyo
+    400042: Point_toyo_all
+    400044: Point_toyo_sword
+    400046: //RootNode
+    4300000: obj_toyo
+    4300002: obj_toyo_sword
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: obj_toyo
+    13700002: obj_toyo_sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
